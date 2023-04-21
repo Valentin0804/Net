@@ -1,0 +1,15 @@
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+C:\Net\Unidad2\ParaPensar\Ejercicio2\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll

@@ -1,0 +1,15 @@
+C:\Net\Unidad2\Iteracion\Iteracion\bin\Debug\net6.0\Iteracion.exe
+C:\Net\Unidad2\Iteracion\Iteracion\bin\Debug\net6.0\Iteracion.deps.json
+C:\Net\Unidad2\Iteracion\Iteracion\bin\Debug\net6.0\Iteracion.runtimeconfig.json
+C:\Net\Unidad2\Iteracion\Iteracion\bin\Debug\net6.0\Iteracion.dll
+C:\Net\Unidad2\Iteracion\Iteracion\bin\Debug\net6.0\Iteracion.pdb
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\Iteracion.csproj.AssemblyReference.cache
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\Iteracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\Iteracion.AssemblyInfoInputs.cache
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\Iteracion.AssemblyInfo.cs
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\Iteracion.csproj.CoreCompileInputs.cache
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\Iteracion.dll
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\refint\Iteracion.dll
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\Iteracion.pdb
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\Iteracion.genruntimeconfig.cache
+C:\Net\Unidad2\Iteracion\Iteracion\obj\Debug\net6.0\ref\Iteracion.dll
