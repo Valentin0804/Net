@@ -12,7 +12,7 @@
         {
             if (mes == s)
             {
-                Console.WriteLine("Nombre del mes " + mes + " numero del mes " +  i);
+                Console.WriteLine("Nombre del mes " + mes + " numero del mes: " +  i);
             }else { i++; }
         }
     }
